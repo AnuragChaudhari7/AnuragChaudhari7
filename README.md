@@ -43,6 +43,17 @@ Here are a few things I've been working on:
 -->
 ---
 
+## 🧠 Skills
+
+### 💻 Programming & Development
+- **Languages**: Python, C++, Java  
+- **Frameworks & Tools**: Flask, ReactJS, Docker, Websockets, RESTful APIs  
+- **DevOps & Testing**: GitHub Actions, PyTest, JUnit, CI/CD pipelines
+
+### 📊 Data Science & Machine Learning
+- **Libraries**: NumPy, Pandas, Scikit-learn, PyTorch
+---
+
 ## 📬 Contact Me
 
 - 📧 chaudharianurag18@gmail.com  
