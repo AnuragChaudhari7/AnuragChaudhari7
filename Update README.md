@@ -1,5 +1,3 @@
-## Hi there, I'm Anurag 👋
-
 <!--
 **AnuragChaudhari7/AnuragChaudhari7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,8 +14,9 @@ Here are some ideas to get you started:
 -->
 
 # 👋 About Me
-I'm a second-year CS and mathematics undergraduate with a passion for quantitative finance, software developement, and applied maths and stats. 
+Hi, Anurag here! I'm a second-year CS and mathematics undergraduate with a passion for financial mathematics, software developement, and machine learning. 
 
+<!-- TODO: combine both interests -->
 ## Current Interests
 My current interests lie in building C++ software for quantitaitive development, derivatives pricing and interpretable machine learning.
 
