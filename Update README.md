@@ -1,55 +1,45 @@
 <!--
 **AnuragChaudhari7/AnuragChaudhari7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 
 # 👋 About Me
-Hi, Anurag here! I'm a second-year CS and mathematics undergraduate with a passion for financial mathematics, software developement, and machine learning. 
 
-<!-- TODO: combine both interests -->
-## Current Interests
-My current interests lie in building C++ software for quantitaitive development, derivatives pricing and interpretable machine learning.
+Hi! I'm a second-year undergraduate at UC San Diego studying **Computer Science** and **Mathematics**. I'm passionate about **financial mathematics**, **software development**, and **machine learning** — especially where these fields intersect.
 
 ---
 
-## 🧪 Research Interests
-I'm particularly interested in **interpretable machine learning**, especially through the lens of **causal inference** and **statistical reasoning**, and its applications in **quantitative finance** — from robust strategy design to better risk attribution.
+## 🔭 Current Interests
+
+I'm currently focused on:
+- Building performant C++ software for **quantitative development**
+- **Derivatives pricing** using mathematical and statistical models
+- **Interpretable machine learning**, particularly in the context of financial decision-making
 
 ---
 
 ## 🛠️ Projects
 
-<!--- **Scamurai Silver** – Scam detection browser extension + educational web app (NLP + CV powered) -->
-- **Algo Trading Venture (Crypto Derivatives)** – Building the hedging engine and infrastructure for crypto derivatives
-- **C++ Limit Order Book**
-- **Some ML Project**
-- **QuantConnect Strategy**
+Here are a few things I've been working on:
+
+- **Algo Trading Venture (Crypto Derivatives)** – Building the trading engine and infrastructure for hedging crypto derivatives
+- **C++ Limit Order Book** – Developing a high-performance, real-time matching engine with price-time priority logic
+- **QuantConnect Strategy** – Creating, backtesting, and analyzing algorithmic trading strategies using the QuantConnect framework
+- **[Dynamic Options Pricing Web App](https://optionspricing.onrender.com/)** – Live web tool for pricing options using Black-Scholes & Binomial Tree models
 
 ---
 
 ## 📌 Experience & Clubs
 
-- **Quant Developer II**, Triton Quantitative Trading  
-  Developed strategy backtests, presented on static hedging, contributed to infra
-
+- **Quant Developer II**, *Triton Quantitative Trading (TQT)*  
+  Designed and backtested trading strategies, presented research on static hedging, and contributed to club infrastructure
 <!--
-- **Incoming VP**, Triton Quantitative Trading  
-  Planning social recruitment events, organizing 2-week quant crash course on QuantConnect framework, leading club's Quant League participation -->
-
+- **Incoming Vice President**, *TQT @ UC San Diego*  
+  Planning social recruitment events, leading a 2-week QuantConnect crash course, and organizing the club’s participation in QuantConnect’s University Quant League
+-->
 ---
 
 ## 📬 Contact Me
 
 - 📧 Email: chaudharianurag18@gmail.com  
-- 💼 [LinkedIn] (https://www.linkedin.com/in/anurag-chaudhari-b88228294/)
-<!-- - 🌐 [Website/Portfolio](https://yourwebsite.com)-->
+- 💼 [LinkedIn](https://www.linkedin.com/in/anurag-chaudhari-b88228294/)  
+<!-- - 🌐 [Portfolio Website](https://yourwebsite.com) -->
